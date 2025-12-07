@@ -48,14 +48,14 @@ WhatIGot uses **20 different probes** simultaneously:
 
 ### From Source
 ```bash
-git clone https://github.com/yourusername/whatigot.git
+git clone https://github.com/sirbugs/whatigot.git
 cd whatigot
 go build -o whatigot
 ```
 
 ### Quick Install
 ```bash
-go install github.com/yourusername/whatigot@latest
+go install github.com/sirbugs/whatigot@latest
 ```
 
 ---
